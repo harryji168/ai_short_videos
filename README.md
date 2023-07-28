@@ -22,3 +22,8 @@ It's essential to compare and understand these two styles, as adapting to more e
 
 ## New AI-Generated Video Style
 ![ads_new](https://github.com/harryji168/ai_short_videos/assets/21187699/85c27bc9-f99c-413b-9951-04c92bbaeae7)
+
+
+# [more videos](https://www.youtube.com/@XO_TOURS/videos)
+
+![videos](https://github.com/harryji168/ai_short_videos/assets/21187699/7ff3d0b7-9f5c-46c5-b63a-aa47c5949847)
