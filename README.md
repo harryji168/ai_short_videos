@@ -26,6 +26,6 @@ It's essential to compare and understand these two styles, as adapting to more e
 
 # [more videos](https://www.youtube.com/XO_TOURS/videos)
 
-<a href="https://www.youtube.com/user/XO_TOURS/videos">
+<a target=_blank href="https://www.youtube.com/@XO_TOURS">
     <img src="https://github.com/harryji168/ai_short_videos/blob/main/images/sisi-generate/sissi.png?raw=true">
 </a>
