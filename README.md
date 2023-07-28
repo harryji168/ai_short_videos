@@ -26,4 +26,4 @@ It's essential to compare and understand these two styles, as adapting to more e
 
 # [more videos](https://www.youtube.com/@XO_TOURS/videos)
 
-![videos](https://github.com/harryji168/ai_short_videos/assets/21187699/7ff3d0b7-9f5c-46c5-b63a-aa47c5949847)
+<a href="https://www.youtube.com/@XO_TOURS/videos"><img src="https://github.com/harryji168/ai_short_videos/assets/21187699/7ff3d0b7-9f5c-46c5-b63a-aa47c5949847"></a>
