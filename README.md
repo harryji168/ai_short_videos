@@ -3,6 +3,7 @@
 Utilizing advanced AI tools, I have designed captivating tourism concepts. These incorporated AI-powered scriptwriting, artistic design, dynamic voiceovers, and engaging music. This strategy has already increased video-to-website click-through rates thirty times over. Additionally, I have effectively taught numerous Taiwanese students to create more AI-based tourism short videos.
 
 ![sissi](https://github.com/harryji168/ai_short_videos/assets/21187699/e76a58ec-5e94-4d48-9173-5f3529c78e1a)
+![siss4](https://github.com/harryji168/ai_short_videos/assets/21187699/37b3d7d4-4d2c-4201-8cea-33d3c3de8491)
 
 ![mozart](https://github.com/harryji168/ai_short_videos/assets/21187699/f7769eaf-aefd-4183-a7eb-6b15d6ed270d)
 
